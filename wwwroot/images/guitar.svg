@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+  <title>Акустична гітара</title>
+  <rect width="400" height="260" fill="#f6f0e8"/>
+  <g transform="rotate(28 200 140)">
+    <path d="M180 112c-31-13-56 23-34 46-38 34-15 78 37 78s75-44 37-78c22-23-3-59-34-46Z" fill="#c99b62" stroke="#805c38" stroke-width="4"/>
+    <rect x="178" y="44" width="17" height="116" fill="#805c38"/>
+    <rect x="175" y="23" width="23" height="36" rx="5" fill="#c99b62" stroke="#805c38" stroke-width="3"/>
+    <circle cx="186" cy="164" r="18" fill="#4f3926"/>
+    <rect x="166" y="205" width="39" height="8" fill="#805c38"/>
+    <path d="M182 35v174M187 35v174M192 35v174" stroke="#ead4b5" stroke-width="1.5"/>
+    <path d="M170 32h9m-9 14h9m17-14h9m-9 14h9" stroke="#555" stroke-width="4"/>
+  </g>
+</svg>

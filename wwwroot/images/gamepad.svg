@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+  <title>Ігровий контролер</title>
+  <rect width="400" height="260" fill="#eef3f8"/>
+  <path d="M143 75h114c32 0 45 28 53 57l16 59c5 25-22 37-39 18l-31-34H144l-31 34c-17 19-44 7-39-18l16-59c8-29 21-57 53-57Z" fill="#476b94" stroke="#253e5d" stroke-width="5"/>
+  <path d="M124 104h16v17h17v16h-17v17h-16v-17h-17v-16h17Z" fill="#fff"/>
+  <circle cx="271" cy="113" r="10" fill="#e6bf63"/>
+  <circle cx="292" cy="134" r="10" fill="#c97870"/>
+  <circle cx="250" cy="134" r="10" fill="#8ab79b"/>
+  <circle cx="271" cy="155" r="10" fill="#c5d7ef"/>
+  <circle cx="176" cy="152" r="17" fill="#253e5d"/>
+  <circle cx="219" cy="152" r="17" fill="#253e5d"/>
+  <rect x="185" y="103" width="25" height="7" rx="3" fill="#fff"/>
+</svg>

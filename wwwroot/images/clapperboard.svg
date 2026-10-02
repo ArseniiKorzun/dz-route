@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+  <title>Кінохлопавка</title>
+  <rect width="400" height="260" fill="#f3f1ee"/>
+  <rect x="75" y="105" width="250" height="115" rx="4" fill="#39424d"/>
+  <path d="m75 87 238-50 8 39-238 50Z" fill="#39424d"/>
+  <path d="m106 80 27-6-17 44-27 6Zm61-13 27-6-17 44-27 6Zm61-13 27-6-17 44-27 6Zm61-13 24-4 8 39-49 10Z" fill="#fff"/>
+  <path d="M98 145h204M98 178h130M250 178h52" stroke="#fff" stroke-width="6"/>
+  <circle cx="87" cy="110" r="5" fill="#adb5bd"/>
+</svg>

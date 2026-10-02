@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] — Мої улюблені речі</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <nav aria-label="Головна навігація">
+        <a href="~/">Головна</a>
+        <a href="~/Home/About">Про мене</a>
+        <a href="~/favorites">Ігри</a>
+        <a href="~/cinema">Фільми</a>
+        <a href="~/Favorite/Music">Музика</a>
+    </nav>
+    <main>
+        @RenderBody()
+    </main>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+  <title>Навушники</title>
+  <rect width="400" height="260" fill="#eef3f4"/>
+  <path d="M109 156v-29a91 91 0 0 1 182 0v29" fill="none" stroke="#405b6e" stroke-width="19"/>
+  <rect x="92" y="131" width="45" height="79" rx="16" fill="#405b6e"/>
+  <rect x="263" y="131" width="45" height="79" rx="16" fill="#405b6e"/>
+  <rect x="126" y="138" width="19" height="65" rx="8" fill="#7799ab"/>
+  <rect x="255" y="138" width="19" height="65" rx="8" fill="#7799ab"/>
+  <path d="M278 210q0 25-68 25" fill="none" stroke="#405b6e" stroke-width="5"/>
+  <path d="M194 161v-53l32-8v50" fill="none" stroke="#7799ab" stroke-width="7"/>
+  <ellipse cx="183" cy="164" rx="14" ry="9" fill="#7799ab"/>
+  <ellipse cx="215" cy="153" rx="14" ry="9" fill="#7799ab"/>
+</svg>
